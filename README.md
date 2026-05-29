@@ -10,7 +10,7 @@
 ## 🔭 My Repositories
 
 ### Public Repos
-- [WiGO_EVENTS](https://github.com/andrewmugisa/WiGO_EVENTS) – Full stack site for Wigo Events (Spring, PostgreSQL, JS, HTML, CSS)  
+- [Full_Authentication_Java](https://github.com/andrewmugisa/WiGO_EVENTS) – Full stack site for Wigo Events (Spring, PostgreSQL, JS, HTML, CSS)  
 - [simple_JDBC](https://github.com/andrewmugisa/simple_JDBC) – Java project – 1 issue needs help  
 - [black-jack](https://github.com/andrewmugisa/black-jack) – JavaScript project  
 - [Hello-World-openSource](https://github.com/andrewmugisa/Hello-World-openSource) – Forked, helping beginners contribute  
