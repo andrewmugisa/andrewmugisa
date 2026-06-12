@@ -8,25 +8,25 @@
 ## 🚀 Active Projects
 
 ### 🔐 [Spring_auth](https://github.com/andrewmugisa/Spring_auth)
-A production-ready Spring Boot authentication library — JWT with token blacklisting, email verification with expiry codes, stateless security, and a clean layered architecture (DTOs, services, repositories). Built to be plugged into any Spring project.  
+A production-ready Spring Boot authentication library  JWT with token blacklisting, email verification with expiry codes, stateless security, and a clean layered architecture (DTOs, services, repositories). Built to be plugged into any Spring project.  
 `Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
 
 ---
 
 ### 🎟️ [WigoEvents](https://github.com/andrewmugisa/WigoEvents)
-Full-stack events platform — Spring Boot REST API backed by PostgreSQL, with a vanilla JS/HTML/CSS frontend. Includes API documentation, contribution guide, and a live deployed site.  
+Full-stack events platform  Spring Boot REST API backed by PostgreSQL, with a vanilla JS/HTML/CSS frontend. Includes API documentation, contribution guide, and a live deployed site.  
 `Java` `Spring Boot` `PostgreSQL` `JavaScript` `HTML/CSS`
 
 ---
 
 ### 🔑 [password-generator](https://github.com/andrewmugisa/password-generator)
-Chrome extension that detects password fields on web pages and generates strong, random passwords on demand — with clipboard copy support.  
+Chrome extension that detects password fields on web pages and generates strong, random passwords on demand  with clipboard copy support. No storage, for privacy and security.  
 `JavaScript` `Chrome Extension API` `HTML/CSS`
 
 ---
 
 ### 🌐 [mikrotik-automation01](https://github.com/andrewmugisa/mikrotik-automation01)
-Java automation tool for MikroTik RouterOS — creates users and fetches live router data via the RouterOS API. Built for network engineers who need to manage routers programmatically.  
+Java automation tool for MikroTik RouterOS  creates users and fetches live router data via the RouterOS API. On a road map to router configuration automation.  
 `Java` `MikroTik RouterOS API` `Network Automation`
 
 ---
