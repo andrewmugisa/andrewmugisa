@@ -2,7 +2,7 @@
 
 **Username:** [andrewmugisa](https://github.com/andrewmugisa)  
 **Location:** Florida  
-**Followers:** 4 | **Following:** 7  
+**Followers:** 2 | **Following:** 7  
 **Achievement:** 🦈 Pull Shark
 
 ---
