@@ -8,24 +8,37 @@
 ## 🚀 Active Projects
 
 ### 🔐 [Spring_auth](https://github.com/andrewmugisa/Spring_auth)
-A production-ready Spring Boot authentication library  JWT with token blacklisting, email verification with expiry codes, stateless security, and a clean layered architecture (DTOs, services, repositories). Built to be plugged into any Spring project.  
-`Java` `Spring Boot` `Spring Security` `JWT` `PostgreSQL`
+A production-ready Spring Boot authentication library with JWT authentication, token blacklisting, expiring email verification codes, stateless security, and a clean layered architecture. 
+Built to be plugged into any Spring project.  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
 ### 🎟️ [WigoEvents](https://github.com/andrewmugisa/WigoEvents)
 Full-stack concerts platform for people to buy and sell tickets to concerts. 
-Full Spring Boot REST API backed by PostgreSQL, with a vanilla React JS frontend. Includes API documentation, contribution guide, and a live site coming soon. 
+Full Spring Boot REST API backed by PostgreSQL, with React JS frontend. Includes API documentation, contribution guide, and a live site coming soon. 
 *Contribution is via invite only.*
-> Project made private *Public* repo *coming soon*.
+🔒 Currently private — public repository coming soon.
 
-`Java` `Spring Boot` `PostgreSQL` `React` `JavaScript` `HTML/CSS`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
 ---
 
 ### 🔑 [password-generator](https://github.com/andrewmugisa/password-generator)
 Chrome extension that detects password fields on web pages and generates strong, random passwords on demand  with clipboard copy support. No storage, for privacy and security.  
-`JavaScript` `Chrome Extension API` `HTML/CSS`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ---
 
@@ -36,7 +49,11 @@ It can be quite challenging for beginners to set up their routers, even with exi
 
 For anyone interested, please look at the roadmap and see if this is something you would be proud to contribute to.
 
-`Java` `React` `MikroTik RouterOS API` `Network Automation`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![RouterOS API](https://img.shields.io/badge/RouterOS_API-293239?style=flat-square&logo=mikrotik&logoColor=white)
+![Network Automation](https://img.shields.io/badge/Network_Automation-005073?style=flat-square&logo=cisco&logoColor=white)
 
 ---
 
