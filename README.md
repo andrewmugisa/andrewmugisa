@@ -14,8 +14,10 @@ A production-ready Spring Boot authentication library  JWT with token blacklisti
 ---
 
 ### 🎟️ [WigoEvents](https://github.com/andrewmugisa/WigoEvents)
-Full-stack events platform  Spring Boot REST API backed by PostgreSQL, with a vanilla JS/HTML/CSS frontend. Includes API documentation, contribution guide, and a live deployed site.  
-> Project made private *Public* repo *comming soon*.
+Full-stack concerts platform for people to buy and sell tickets to concerts. 
+Full Spring Boot REST API backed by PostgreSQL, with a vanilla React JS frontend. Includes API documentation, contribution guide, and a live site coming soon. 
+*Contribution is via invite only.*
+> Project made private *Public* repo *coming soon*.
 
 `Java` `Spring Boot` `PostgreSQL` `React` `JavaScript` `HTML/CSS`
 
