@@ -28,8 +28,13 @@ Chrome extension that detects password fields on web pages and generates strong,
 ---
 
 ### 🌐 [mikrotik-automation01](https://github.com/andrewmugisa/mikrotik-automation01)
-Java automation tool for MikroTik RouterOS  creates users and fetches live router data via the RouterOS API. On a road map to router configuration automation.  
-`Java` `MikroTik RouterOS API` `Network Automation`
+Currently this Java automation tool for MikroTik RouterOS, creates users and fetches live router data via the RouterOS API. On a roadmap to router configuration automation.
+
+It can be quite challenging for beginners to set up their routers, even with existing advanced tools. My goal is to make it easy by just clicking a few buttons.
+
+For anyone interested, please look at the roadmap and see if this is something you would be proud to contribute to.
+
+`Java` `React` `MikroTik RouterOS API` `Network Automation`
 
 ---
 
