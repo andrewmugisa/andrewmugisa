@@ -22,7 +22,7 @@ Built to be plugged into any Spring project.
 Full-stack concerts platform for people to buy and sell tickets to concerts. 
 Full Spring Boot REST API backed by PostgreSQL, with React JS frontend. Includes API documentation, contribution guide, and a live site coming soon. 
 *Contribution is via invite only.*
-🔒 Currently private — public repository coming soon.
+🔒 Currently private. Public repository coming soon.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
