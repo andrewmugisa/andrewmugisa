@@ -1,4 +1,4 @@
-# Hi, I'm Andrew Mugisa 👋
+# Hi, I'm Andrew 👋
 
 🎯 Backend-focused developer passionate about building secure, scalable systems.  
 📍 Canada &nbsp;·&nbsp; ☕ Java & Spring Boot enthusiast &nbsp;·&nbsp; 🐍 Python for data 
